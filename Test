@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/mangoman-au/mangoman-au.git
 git push -u origin main
 echo "test"
+echo "new branch"
